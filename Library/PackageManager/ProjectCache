@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/joels/Documents/Unity/HorrorVoxel/Packages/manifest.json
+    m_FilePath: C:/Users/joels/Documents/GitHub/Voxel-Horror/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,12 +8,12 @@ m_ProjectFiles:
       ticks: 637581724566085736
     m_Hash: 4129500968
   m_LockFileStatus:
-    m_FilePath: C:/Users/joels/Documents/Unity/HorrorVoxel/Packages/packages-lock.json
+    m_FilePath: C:/Users/joels/Documents/GitHub/Voxel-Horror/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637581725034795987
+      ticks: 637581755216832634
     m_Hash: 1554650196
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -59,6 +59,7 @@ m_PackageAssets:
         - 1.3.7
         - 1.3.8
         - 1.3.9
+        - 1.5.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -71,6 +72,7 @@ m_PackageAssets:
         - 2.1.0-preview.6
         compatible:
         - 1.3.9
+        - 1.5.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -120,7 +122,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -159,6 +161,9 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.7
         compatible:
         - 1.0.2
         - 1.0.6
@@ -182,6 +187,9 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.7
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -221,7 +229,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -250,6 +258,8 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
+        - 2.0.8
+        - 2.0.9
         compatible:
         - 1.0.2
         - 1.0.3
@@ -263,7 +273,9 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
-        verified: 2.0.7
+        - 2.0.8
+        - 2.0.9
+        verified: 2.0.9
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -292,7 +304,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -361,7 +373,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.19
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.test-framework@1.1.19
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.test-framework@1.1.19
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -403,11 +415,15 @@ m_PackageAssets:
         - 1.1.19
         - 1.1.20
         - 1.1.22
+        - 1.1.24
+        - 1.1.26
         compatible:
         - 1.1.19
         - 1.1.20
         - 1.1.22
-        verified: 1.1.22
+        - 1.1.24
+        - 1.1.26
+        verified: 1.1.26
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.5
@@ -450,7 +466,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -520,6 +536,9 @@ m_PackageAssets:
         - 1.5.0
         - 1.5.1
         - 1.5.3
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -538,6 +557,9 @@ m_PackageAssets:
         - 2.1.0
         - 2.1.1
         - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -552,10 +574,16 @@ m_PackageAssets:
         - 3.0.0
         - 3.0.1
         - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
         compatible:
         - 3.0.1
         - 3.0.3
-        verified: 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -597,7 +625,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.4
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.timeline@1.4.4
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.timeline@1.4.4
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -657,6 +685,8 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
+        - 1.4.8
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -667,7 +697,12 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
+        - 1.5.5
         - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
         compatible:
         - 1.2.6
         - 1.2.7
@@ -707,6 +742,8 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
+        - 1.4.8
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -717,8 +754,13 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
+        - 1.5.5
         - 1.6.0-pre.1
-        verified: 1.4.6
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
         version: 1.0.0
@@ -2573,7 +2615,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.5
       source: 1
-      resolvedPath: C:\Users\joels\Documents\Unity\HorrorVoxel\Library\PackageCache\com.unity.ext.nunit@1.0.5
+      resolvedPath: C:\Users\joels\Documents\GitHub\Voxel-Horror\Library\PackageCache\com.unity.ext.nunit@1.0.5
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2631,5 +2673,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/joels/Documents/Unity/HorrorVoxel/Packages
+m_ProjectPath: C:/Users/joels/Documents/GitHub/Voxel-Horror/Packages
 m_EditorVersion: 2020.2.1f1 (270dd8c3da1c)
