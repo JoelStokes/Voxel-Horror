@@ -62,10 +62,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\TextFade.cs" />
     <Compile Include="Assets\Scripts\Message.cs" />
+    <Compile Include="Assets\Scripts\Zombies\Crawler.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\CandleFlicker.cs" />
     <Compile Include="Assets\Scripts\Grid.cs" />
-    <Compile Include="Assets\Scripts\Zombies\Crawler.cs" />
+    <Compile Include="Assets\Scripts\BonusController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
