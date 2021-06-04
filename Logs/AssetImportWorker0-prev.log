@@ -1,0 +1,502 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16285 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/joels/Documents/GitHub/Voxel-Horror
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55998
+Successfully changed project path to: C:/Users/joels/Documents/GitHub/Voxel-Horror
+C:/Users/joels/Documents/GitHub/Voxel-Horror
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/joels/Documents/GitHub/Voxel-Horror/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   26.21.14.3107
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002300 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000693 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.826 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1542.
+Total: 1.929700 ms (FindLiveObjects: 0.169500 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.637000 ms  DeleteObjects: 0.068900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/Mixamo/zombie biting (2).fbx
+  artifactKey: Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting (2).fbx using Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba2f0d3774061d28fe46e662ef18906') in 0.085366 seconds
+  Import took 0.087357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Animations/Mixamo/zombie run.fbx
+  artifactKey: Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie run.fbx using Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed67f03689ed106e55933cbfb2b280c') in 0.005046 seconds
+  Import took 0.007337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Animations/Mixamo/zombie biting.fbx
+  artifactKey: Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting.fbx using Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f7f5d0cfef6434a7d23bf04b684fac') in 0.008332 seconds
+  Import took 0.010479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Animations/Mixamo/zombie scream.fbx
+  artifactKey: Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie scream.fbx using Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a815e33a977a43425ef8b576ce34df6') in 0.005725 seconds
+  Import took 0.008160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Animations/Mixamo/zombie walk.fbx
+  artifactKey: Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie walk.fbx using Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069c58af74d9c30f4ec0e24cfa3ac2b3') in 0.011596 seconds
+  Import took 0.014533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Animations/Mixamo/zombie death.fbx
+  artifactKey: Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie death.fbx using Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffbc07cc71388b633d2369cb41c43da') in 0.006457 seconds
+  Import took 0.009496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Animations/Mixamo/zombie neck bite.fbx
+  artifactKey: Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie neck bite.fbx using Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef2b6f823394d246bba193edb8f778b') in 0.005911 seconds
+  Import took 0.008638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Animations/Mixamo/zombie crawl.fbx
+  artifactKey: Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie crawl.fbx using Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afe52a093669eb8ecd62ad857ae9b1b') in 0.007185 seconds
+  Import took 0.010111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Animations/Mixamo/running crawl.fbx
+  artifactKey: Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/running crawl.fbx using Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec0bbd7cb56bfe22a7b0df7e5d484e9') in 0.005669 seconds
+  Import took 0.007496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Animations/Mixamo/zombie dying.fbx
+  artifactKey: Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie dying.fbx using Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7051dc88207a793bed16912947d327b3') in 0.006833 seconds
+  Import took 0.008978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Animations/Mixamo/zombie idle.fbx
+  artifactKey: Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie idle.fbx using Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c92ce815f44f71261368a30266688f') in 0.005988 seconds
+  Import took 0.008180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Animations/Mixamo/zombie attack.fbx
+  artifactKey: Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie attack.fbx using Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f542bd17cbfbfee2801c4a6e5a64c43') in 0.011302 seconds
+  Import took 0.013795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.589663 seconds.
+  path: Assets/Animations/Mixamo/running crawl.fbx
+  artifactKey: Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/running crawl.fbx using Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d05749943746aa2884a11bab80bfee6') in 0.005261 seconds
+  Import took 0.007784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007337 seconds.
+  path: Assets/Animations/Mixamo/running crawl.fbx
+  artifactKey: Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/running crawl.fbx using Guid(39c9c4b8f959515469335d7174ed60a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d05749943746aa2884a11bab80bfee6') in 0.006680 seconds
+  Import took 0.008999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.655497 seconds.
+  path: Assets/Animations/Mixamo/Running Crawl.anim
+  artifactKey: Guid(7358c611f2608104abbe024570c0e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Running Crawl.anim using Guid(7358c611f2608104abbe024570c0e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66d17c8b40926ce1dba94674195dd07') in 0.007744 seconds
+  Import took 0.009408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.403167 seconds.
+  path: Assets/Animations/Mixamo/zombie attack.fbx
+  artifactKey: Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie attack.fbx using Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1685f33e252a897196ff8f94949c544') in 0.006535 seconds
+  Import took 0.009214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002712 seconds.
+  path: Assets/Animations/Mixamo/zombie attack.fbx
+  artifactKey: Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie attack.fbx using Guid(5dee9a284c1e3cd42ab3f98c25ced1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1685f33e252a897196ff8f94949c544') in 0.006032 seconds
+  Import took 0.008317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.531187 seconds.
+  path: Assets/Animations/Mixamo/Zombie Attack.anim
+  artifactKey: Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Attack.anim using Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740d07d5041c73ddb12669f5f0c57d99') in 0.006832 seconds
+  Import took 0.008629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.634725 seconds.
+  path: Assets/Animations/Mixamo/zombie biting (2).fbx
+  artifactKey: Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting (2).fbx using Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2578ee90e27b8980089d616d232354') in 0.007049 seconds
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003241 seconds.
+  path: Assets/Animations/Mixamo/zombie biting (2).fbx
+  artifactKey: Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting (2).fbx using Guid(8f36f4f9d1c95cc419d104ce85469247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2578ee90e27b8980089d616d232354') in 0.005800 seconds
+  Import took 0.008374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.090402 seconds.
+  path: Assets/Animations/Mixamo/Zombie Bite 2.anim
+  artifactKey: Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Bite 2.anim using Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20dd13552927bf532ced3c7b7c4b7e1b') in 0.008475 seconds
+  Import took 0.010990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.379803 seconds.
+  path: Assets/Animations/Mixamo/zombie biting.fbx
+  artifactKey: Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting.fbx using Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c720b51f33330186f50d2f67cece84') in 0.007782 seconds
+  Import took 0.010059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003471 seconds.
+  path: Assets/Animations/Mixamo/zombie biting.fbx
+  artifactKey: Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie biting.fbx using Guid(061bc96742df7254ba6731c3da908477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c720b51f33330186f50d2f67cece84') in 0.008482 seconds
+  Import took 0.010620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.470322 seconds.
+  path: Assets/Animations/Mixamo/Zombie Biting.anim
+  artifactKey: Guid(16d5ae19d77a808498c57646c74a0611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Biting.anim using Guid(16d5ae19d77a808498c57646c74a0611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473a9bfeae48f5b1548c893123a9900a') in 0.026419 seconds
+  Import took 0.028890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.246673 seconds.
+  path: Assets/Animations/Mixamo/zombie crawl.fbx
+  artifactKey: Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie crawl.fbx using Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c82279ff2bf3dcf37abb0de587ec58') in 0.007332 seconds
+  Import took 0.010236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002909 seconds.
+  path: Assets/Animations/Mixamo/zombie crawl.fbx
+  artifactKey: Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie crawl.fbx using Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c82279ff2bf3dcf37abb0de587ec58') in 0.006611 seconds
+  Import took 0.008559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.970155 seconds.
+  path: Assets/Animations/Mixamo/zombie crawl.fbx
+  artifactKey: Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie crawl.fbx using Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54d64901ec25e3b6283cba466c941df') in 0.004926 seconds
+  Import took 0.007795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004710 seconds.
+  path: Assets/Animations/Mixamo/zombie crawl.fbx
+  artifactKey: Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie crawl.fbx using Guid(c0ca6b8799f372144ad3775ed13e9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54d64901ec25e3b6283cba466c941df') in 0.006566 seconds
+  Import took 0.008639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.391375 seconds.
+  path: Assets/Animations/Mixamo/Crawl.anim
+  artifactKey: Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Crawl.anim using Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff707cc96af314d43b51fe5290fbe5e') in 0.019181 seconds
+  Import took 0.020776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.213482 seconds.
+  path: Assets/Animations/Mixamo/Zombie Crawl.anim
+  artifactKey: Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Crawl.anim using Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01e3d909fedae0653af92b671d7a3e8') in 0.036174 seconds
+  Import took 0.038188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.863413 seconds.
+  path: Assets/Animations/Mixamo/zombie death.fbx
+  artifactKey: Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie death.fbx using Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e05d2a8818c5450a4eef551f0045b18') in 0.005300 seconds
+  Import took 0.007627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005317 seconds.
+  path: Assets/Animations/Mixamo/zombie death.fbx
+  artifactKey: Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie death.fbx using Guid(987a31192e4ffa949a6b1af236c20798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e05d2a8818c5450a4eef551f0045b18') in 0.004856 seconds
+  Import took 0.006618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.189923 seconds.
+  path: Assets/Animations/Mixamo/Zombie Death.anim
+  artifactKey: Guid(63f78549c19e9b5489096154a3aa849d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Death.anim using Guid(63f78549c19e9b5489096154a3aa849d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150f9b4b571770c39cf333cbc0d06f76') in 0.009578 seconds
+  Import took 0.011854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.883836 seconds.
+  path: Assets/Animations/Mixamo/zombie dying.fbx
+  artifactKey: Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie dying.fbx using Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8620953d7231a7c08abd2ca053c6e3') in 0.007436 seconds
+  Import took 0.009392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003943 seconds.
+  path: Assets/Animations/Mixamo/zombie dying.fbx
+  artifactKey: Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie dying.fbx using Guid(6be4cd61e34984c468265fada6cd1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8620953d7231a7c08abd2ca053c6e3') in 0.005521 seconds
+  Import took 0.008145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.568993 seconds.
+  path: Assets/Animations/Mixamo/Zombie Dying.anim
+  artifactKey: Guid(0b2d3eedaf6807345955efa9638b2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Dying.anim using Guid(0b2d3eedaf6807345955efa9638b2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479ddd52020ae01bf350a64d8be7f9e1') in 0.016295 seconds
+  Import took 0.018206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Animations/Mixamo/Zombie Dying.anim
+  artifactKey: Guid(0b2d3eedaf6807345955efa9638b2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Dying.anim using Guid(0b2d3eedaf6807345955efa9638b2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479ddd52020ae01bf350a64d8be7f9e1') in 0.011883 seconds
+  Import took 0.014064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.569583 seconds.
+  path: Assets/Animations/Mixamo/zombie idle.fbx
+  artifactKey: Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie idle.fbx using Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba91c8908acefff30472c7c7bbd4e285') in 0.004427 seconds
+  Import took 0.006407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005914 seconds.
+  path: Assets/Animations/Mixamo/zombie idle.fbx
+  artifactKey: Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie idle.fbx using Guid(755f8631b53aeb344b74010c7844c487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba91c8908acefff30472c7c7bbd4e285') in 0.005414 seconds
+  Import took 0.007591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.831943 seconds.
+  path: Assets/Animations/Mixamo/Zombie Idle.anim
+  artifactKey: Guid(9cbd38d9a0c2d474bad33388737424a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Idle.anim using Guid(9cbd38d9a0c2d474bad33388737424a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b7e5f272813e74983e073c7d668ef8') in 0.005377 seconds
+  Import took 0.007581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.987772 seconds.
+  path: Assets/Animations/Mixamo/zombie neck bite.fbx
+  artifactKey: Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie neck bite.fbx using Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edec223d73a69e97cf2d8fc6420d50d') in 0.005986 seconds
+  Import took 0.008207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004524 seconds.
+  path: Assets/Animations/Mixamo/zombie neck bite.fbx
+  artifactKey: Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie neck bite.fbx using Guid(f0190fadfb5fde24c91e2b14c45df76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edec223d73a69e97cf2d8fc6420d50d') in 0.004959 seconds
+  Import took 0.007243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.344861 seconds.
+  path: Assets/Animations/Mixamo/Neck Bite.anim
+  artifactKey: Guid(e1670208f72db444fb19db2cb0fda868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Neck Bite.anim using Guid(e1670208f72db444fb19db2cb0fda868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58181e726283fdf3557ea159d1987ae') in 0.012235 seconds
+  Import took 0.014390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002018 seconds.
+  path: Assets/Animations/Mixamo/Neck Bite.anim
+  artifactKey: Guid(e1670208f72db444fb19db2cb0fda868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Neck Bite.anim using Guid(e1670208f72db444fb19db2cb0fda868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58181e726283fdf3557ea159d1987ae') in 0.011780 seconds
+  Import took 0.013804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.268167 seconds.
+  path: Assets/Animations/Mixamo/zombie run.fbx
+  artifactKey: Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie run.fbx using Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d176b43d1756f2cc1114a34be3bf611') in 0.005088 seconds
+  Import took 0.007130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004717 seconds.
+  path: Assets/Animations/Mixamo/zombie run.fbx
+  artifactKey: Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie run.fbx using Guid(ad46fe609f51c6c47bd8560cdec65a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d176b43d1756f2cc1114a34be3bf611') in 0.005210 seconds
+  Import took 0.007183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.836152 seconds.
+  path: Assets/Animations/Mixamo/Zombie Run.anim
+  artifactKey: Guid(4fd59a3966fd1a545aef4287ed0af352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Run.anim using Guid(4fd59a3966fd1a545aef4287ed0af352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd58588c101e2cb1b2d73b2b7b61751') in 0.009032 seconds
+  Import took 0.010751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.390150 seconds.
+  path: Assets/Animations/Mixamo/zombie scream.fbx
+  artifactKey: Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie scream.fbx using Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333a39128e936520897a1d194de85fbd') in 0.004902 seconds
+  Import took 0.007020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008866 seconds.
+  path: Assets/Animations/Mixamo/zombie scream.fbx
+  artifactKey: Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie scream.fbx using Guid(aa80a6445175f864da4c61cc9b1f5342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333a39128e936520897a1d194de85fbd') in 0.005685 seconds
+  Import took 0.007666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.441238 seconds.
+  path: Assets/Animations/Mixamo/Zombie Scream.anim
+  artifactKey: Guid(6cad8e58bd34a5d49b152989561224d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Scream.anim using Guid(6cad8e58bd34a5d49b152989561224d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a299dacd1eb695e910e7cd3661080955') in 0.007681 seconds
+  Import took 0.009357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.627850 seconds.
+  path: Assets/Animations/Mixamo/zombie walk.fbx
+  artifactKey: Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie walk.fbx using Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eac4d6db5926aae40ed249dfc5d4b08') in 0.006495 seconds
+  Import took 0.008491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004197 seconds.
+  path: Assets/Animations/Mixamo/zombie walk.fbx
+  artifactKey: Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/zombie walk.fbx using Guid(fc06d2b122477224f92cb51261161142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eac4d6db5926aae40ed249dfc5d4b08') in 0.004921 seconds
+  Import took 0.007216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134872 seconds.
+  path: Assets/Animations/Mixamo/Zombie Walk.anim
+  artifactKey: Guid(a7b43159e546856498b3f3981e64856b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Walk.anim using Guid(a7b43159e546856498b3f3981e64856b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26ee035186a20a217e87814f237d039') in 0.007767 seconds
+  Import took 0.009414 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
