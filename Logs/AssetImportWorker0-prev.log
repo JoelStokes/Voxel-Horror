@@ -15,11 +15,11 @@ C:/Users/joels/Documents/GitHub/Voxel-Horror
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55179
+61090
 Successfully changed project path to: C:/Users/joels/Documents/GitHub/Voxel-Horror
 C:/Users/joels/Documents/GitHub/Voxel-Horror
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 24.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 27.16 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,578 +35,274 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002514 seconds.
+Registered in 0.002471 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 21.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 24.70 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.117 seconds
+- Completed reload, in  1.222 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000670 seconds.
+Registered in 0.001258 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.806 seconds
+- Completed reload, in  0.791 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.5 MB.
-System memory in use after: 57.5 MB.
+System memory in use before: 57.8 MB.
+System memory in use after: 57.9 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1542.
-Total: 2.033300 ms (FindLiveObjects: 0.193600 ms CreateObjectMapping: 0.058500 ms MarkObjects: 1.668500 ms  DeleteObjects: 0.111100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000699 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.696 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.6 MB.
-System memory in use after: 57.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1544.
-Total: 1.499700 ms (FindLiveObjects: 0.145100 ms CreateObjectMapping: 0.025700 ms MarkObjects: 1.252500 ms  DeleteObjects: 0.074800 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1545.
+Total: 1.847800 ms (FindLiveObjects: 0.199200 ms CreateObjectMapping: 0.063700 ms MarkObjects: 1.527800 ms  DeleteObjects: 0.055700 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Scenes/JokeDeath.unity
   artifactKey: Guid(e624c76cae6e79a4aa985faf6936dee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/JokeDeath.unity using Guid(e624c76cae6e79a4aa985faf6936dee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893cbe5ce7a78487fffd33c9ede6cec0') in 0.015083 seconds
-  Import took 0.016792 seconds .
+Start importing Assets/Scenes/JokeDeath.unity using Guid(e624c76cae6e79a4aa985faf6936dee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1425f11ba953e1543205639dbb20d1fb') in 0.018476 seconds
+  Import took 0.109455 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 83.690352 seconds.
-  path: Assets/Music
-  artifactKey: Guid(49c0aaff51d27f448b89772e0821f3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Music using Guid(49c0aaff51d27f448b89772e0821f3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9628a0e9eac48ee247aef0cf2b683639') in 0.007488 seconds
-  Import took 0.009655 seconds .
+  Time since last request: 379.752642 seconds.
+  path: Assets/Scripts/Zombies/Crawler.cs
+  artifactKey: Guid(42b851f3ffe31a546acc7c308ae8a2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Zombies/Crawler.cs using Guid(42b851f3ffe31a546acc7c308ae8a2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b8d097c7f3b8a980f1d38b8c9ef710') in 0.229187 seconds
+  Import took 0.304548 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.894048 seconds.
-  path: Assets/SFX
-  artifactKey: Guid(5a47e1bb0935f91478578409f70d9d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SFX using Guid(5a47e1bb0935f91478578409f70d9d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a604ba3504d491d5a917a6ad31bcab3') in 0.006854 seconds
-  Import took 0.008667 seconds .
+  Time since last request: 502.333079 seconds.
+  path: Assets/Animations/Mixamo/Running Crawl.anim
+  artifactKey: Guid(7358c611f2608104abbe024570c0e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Running Crawl.anim using Guid(7358c611f2608104abbe024570c0e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c78b81db67f5e3f024a5f43828a41a') in 0.046903 seconds
+  Import took 0.049717 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.935721 seconds.
-  path: Assets/Music/8bit Bossa.mp3
-  artifactKey: Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Music/8bit Bossa.mp3 using Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f336a7690163c039585518175ba22d') in 0.151177 seconds
-  Import took 0.153024 seconds .
+  Time since last request: 0.429091 seconds.
+  path: Assets/Animations/Mixamo/Zombie Attack.anim
+  artifactKey: Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Attack.anim using Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ca5a5329ee2bea6c32006926711f8f') in 0.014574 seconds
+  Import took 0.016961 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.743300 seconds.
-  path: Assets/Music/8bit Bossa - Jossa.mp3
-  artifactKey: Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Music/8bit Bossa - Jossa.mp3 using Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9224da22b41c13edc28c5a044752c7bf') in 0.043248 seconds
-  Import took 0.045021 seconds .
+  Time since last request: 0.001361 seconds.
+  path: Assets/Animations/Mixamo/Zombie Attack.anim
+  artifactKey: Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Attack.anim using Guid(d8412e2ee31c18344bd6e5ec6a3a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ca5a5329ee2bea6c32006926711f8f') in 0.008997 seconds
+  Import took 0.011231 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.204650 seconds.
-  path: Assets/Music/8bit Bossa - Joth.mp3
-  artifactKey: Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Music/8bit Bossa - Joth.mp3 using Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed4eb6d5865686e44d74432876f9081') in 0.012769 seconds
-  Import took 0.015003 seconds .
+  Time since last request: 1.380090 seconds.
+  path: Assets/Animations/Mixamo/Zombie Bite 2.anim
+  artifactKey: Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Bite 2.anim using Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f627bbe05ef3204b8fb8bc1693a583c') in 0.016738 seconds
+  Import took 0.020180 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001168 seconds.
-  path: Assets/Music/8bit Bossa - Joth.mp3
-  artifactKey: Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Music/8bit Bossa - Joth.mp3 using Guid(8e971d6a69f2faa4681afdb5bba0c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed4eb6d5865686e44d74432876f9081') in 0.014288 seconds
-  Import took 0.016713 seconds .
+  Time since last request: 0.001345 seconds.
+  path: Assets/Animations/Mixamo/Zombie Bite 2.anim
+  artifactKey: Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Bite 2.anim using Guid(6069559ab5f9cb449965d1ad91d34440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f627bbe05ef3204b8fb8bc1693a583c') in 0.009202 seconds
+  Import took 0.011548 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.380966 seconds.
-  path: Assets/Animations/Mixamo/Bonus
-  artifactKey: Guid(2ef6b9adea5dd2d4a82b7439ebaf3b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus using Guid(2ef6b9adea5dd2d4a82b7439ebaf3b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef920c1304e49e55e9a126555fb9b2f1') in 0.007799 seconds
-  Import took 0.009793 seconds .
+  Time since last request: 0.406442 seconds.
+  path: Assets/Animations/Mixamo/Zombie Biting.anim
+  artifactKey: Guid(16d5ae19d77a808498c57646c74a0611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Biting.anim using Guid(16d5ae19d77a808498c57646c74a0611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9438a98bff2d5b3290a4e0dff562f583') in 0.028128 seconds
+  Import took 0.030530 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.242943 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dancing.fbx
-  artifactKey: Guid(01cffeb3406a1fa4c9911aadc9904f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dancing.fbx using Guid(01cffeb3406a1fa4c9911aadc9904f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e546792029262c77fcbafc7c133c7ac1') in 0.091321 seconds
-  Import took 0.093479 seconds .
+  Time since last request: 1.406978 seconds.
+  path: Assets/Animations/Mixamo/Zombie Crawl.anim
+  artifactKey: Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Crawl.anim using Guid(866acb3f45c1f1b40aa37e0ede934e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a87843ff05bf5da5f2c36241555870f') in 0.021681 seconds
+  Import took 0.023981 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.526467 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dancing.fbx
-  artifactKey: Guid(01cffeb3406a1fa4c9911aadc9904f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dancing.fbx using Guid(01cffeb3406a1fa4c9911aadc9904f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e146b16a0b210f46f12d2d0aeb353d') in 0.031233 seconds
-  Import took 0.033261 seconds .
+  Time since last request: 0.721156 seconds.
+  path: Assets/Animations/Mixamo/Zombie Death.anim
+  artifactKey: Guid(63f78549c19e9b5489096154a3aa849d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Death.anim using Guid(63f78549c19e9b5489096154a3aa849d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99d8eade2f447f1515cf41d04c34c88') in 0.019386 seconds
+  Import took 0.021348 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.121544 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dance.anim
-  artifactKey: Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dance.anim using Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8843bec86dea9f18d33cbc061217abc1') in 0.023543 seconds
-  Import took 0.025258 seconds .
+  Time since last request: 168.313791 seconds.
+  path: Assets/Animations/Mixamo/Laying Seizure.fbx
+  artifactKey: Guid(7f84b2256ae1c5f49850c0ff25061ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Seizure.fbx using Guid(7f84b2256ae1c5f49850c0ff25061ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d16c6ebdf9a739daac4a811184277f') in 0.350467 seconds
+  Import took 0.353135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.303856 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae05a7a2f0960fa1c2020095fd71205') in 0.027866 seconds
+  Import took 0.030660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.643363 seconds.
+  path: Assets/Animations/Mixamo/Laying Seizure.anim
+  artifactKey: Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Seizure.anim using Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef6469dde7eba6f44a08737b817d19f') in 0.023350 seconds
+  Import took 0.080042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.208911 seconds.
+  path: Assets/Animations/Mixamo/Laying Seizure.anim
+  artifactKey: Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Seizure.anim using Guid(f9420f1573bf7d547bf3a250ee1db6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aa308af6a3a112837cac98a05c4a9e') in 0.021978 seconds
+  Import took 0.024420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.319916 seconds.
+  path: Assets/Animations/Mixamo/Laying Vomiting.fbx
+  artifactKey: Guid(fcc96db71d63864439170051bbbd6d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Vomiting.fbx using Guid(fcc96db71d63864439170051bbbd6d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1706b94c49b4240dc5991a1a21c1ae29') in 0.035972 seconds
+  Import took 0.039419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.267705 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(8933841d74c25bd439bab86ce079e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(8933841d74c25bd439bab86ce079e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8920391a12890bc869fe75e9011908') in 0.006659 seconds
+  Import took 0.008507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.229113 seconds.
+  path: Assets/Animations/Mixamo/Laying Vomiting.anim
+  artifactKey: Guid(8933841d74c25bd439bab86ce079e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Vomiting.anim using Guid(8933841d74c25bd439bab86ce079e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7a403aa092219e94f409bd8e75514c') in 0.064754 seconds
+  Import took 0.068079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.830381 seconds.
+  path: Assets/Animations/Mixamo/Laying Sleeping.fbx
+  artifactKey: Guid(403cf91d0c787bc4cbfad103ceb2cfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Sleeping.fbx using Guid(403cf91d0c787bc4cbfad103ceb2cfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ad58ba84cc31fbad53bf9993aaf72a') in 0.032390 seconds
+  Import took 0.035470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.972371 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(c0ee3486ae221aa44bffb16f8306f17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(c0ee3486ae221aa44bffb16f8306f17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcf169dcb5b94f8de8d0d80b2d5b324') in 0.005713 seconds
+  Import took 0.008115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.846301 seconds.
+  path: Assets/Animations/Mixamo/Laying Sleeping.anim
+  artifactKey: Guid(c0ee3486ae221aa44bffb16f8306f17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Laying Sleeping.anim using Guid(c0ee3486ae221aa44bffb16f8306f17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f59b36689db39066620df6746703a9f') in 0.004924 seconds
+  Import took 0.007733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.152453 seconds.
+  path: Assets/Animations/Mixamo/Sleeping Idle.fbx
+  artifactKey: Guid(2fe82d801686b4041b4af38b801923de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Sleeping Idle.fbx using Guid(2fe82d801686b4041b4af38b801923de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456adc83ecfab992449e88ec6b8d2a26') in 0.032997 seconds
+  Import took 0.036425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.906175 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(3daece51491b1974a91d94386a65542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(3daece51491b1974a91d94386a65542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1e2c7e225186ba60dfdefe9eba88d8') in 0.006389 seconds
+  Import took 0.008468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.646470 seconds.
+  path: Assets/Animations/Mixamo/Sleeping idle.anim
+  artifactKey: Guid(3daece51491b1974a91d94386a65542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Sleeping idle.anim using Guid(3daece51491b1974a91d94386a65542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11a8802c839f9838111fafeb0a99f38') in 0.066958 seconds
+  Import took 0.070424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 493.064228 seconds.
+  path: Assets/Animations/Mixamo/Zombie Stand Up.fbx
+  artifactKey: Guid(4f6b5611733dc194586111a633d10fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Stand Up.fbx using Guid(4f6b5611733dc194586111a633d10fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ceabc7e6f02e19e26dd9dd31dc41ee') in 0.039530 seconds
+  Import took 0.042542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004812 seconds.
+  path: Assets/Animations/Mixamo/Zombie Stand Up.fbx
+  artifactKey: Guid(4f6b5611733dc194586111a633d10fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Stand Up.fbx using Guid(4f6b5611733dc194586111a633d10fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ceabc7e6f02e19e26dd9dd31dc41ee') in 0.034206 seconds
+  Import took 0.036938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.781964 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25192fb127e30efe21ef770722392759') in 0.010070 seconds
+  Import took 0.013644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.245112 seconds.
+  path: Assets/Animations/Mixamo/Lay Noticed.anim
+  artifactKey: Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Lay Noticed.anim using Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451b45b4d4a6c2d013b136b33f1c8e7c') in 0.078740 seconds
+  Import took 0.081583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.435856 seconds.
+  path: Assets/Animations/Mixamo/Lay Noticed.anim
+  artifactKey: Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Lay Noticed.anim using Guid(1d944d9f71160f54eaa3f46d76c47c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b99e2e30515de6d6f4304b182cacae') in 0.007947 seconds
+  Import took 0.011649 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000910 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.752 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.4 MB.
-System memory in use after: 72.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1592.
-Total: 2.313800 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.055900 ms MarkObjects: 2.023700 ms  DeleteObjects: 0.060900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000735 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.755 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.7 MB.
-System memory in use after: 72.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1594.
-Total: 2.216700 ms (FindLiveObjects: 0.147100 ms CreateObjectMapping: 0.029300 ms MarkObjects: 1.975700 ms  DeleteObjects: 0.063200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 216.381057 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Zed_1_Skinned.controller
-  artifactKey: Guid(83a3fe80555cbe1468a7684be66897dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Zed_1_Skinned.controller using Guid(83a3fe80555cbe1468a7684be66897dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784f598ffcf22501992454fdf5f85484') in 0.024446 seconds
-  Import took 0.027004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.848958 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dance.anim
-  artifactKey: Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dance.anim using Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3b04f03f0d0d58a8d327dce3648d0f') in 0.009692 seconds
-  Import took 0.012099 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004365 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dance.anim
-  artifactKey: Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dance.anim using Guid(31fb12f630651954785116e52720fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3b04f03f0d0d58a8d327dce3648d0f') in 0.009850 seconds
-  Import took 0.012043 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.709146 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dancing (1).fbx
-  artifactKey: Guid(7a3db258b37fd384c8ad6b5bdaad24f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dancing (1).fbx using Guid(7a3db258b37fd384c8ad6b5bdaad24f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000dab54c0a0f3920f978f8c8366afea') in 0.084410 seconds
-  Import took 0.086718 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.475815 seconds.
-  path: Assets/Animations/Mixamo/Bonus/mixamo.com.anim
-  artifactKey: Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/mixamo.com.anim using Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b7db83cf7b9e446e3e689950da44d3') in 0.010603 seconds
-  Import took 0.012914 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000760 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.710 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.8 MB.
-System memory in use after: 72.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1597.
-Total: 1.743000 ms (FindLiveObjects: 0.146400 ms CreateObjectMapping: 0.050100 ms MarkObjects: 1.499100 ms  DeleteObjects: 0.046300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 61.847810 seconds.
-  path: Assets/Animations/Mixamo/Bonus/mixamo.com.anim
-  artifactKey: Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/mixamo.com.anim using Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4022debf5f0a4ac4b29982a8724f7193') in 0.015761 seconds
-  Import took 0.018253 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 113.147589 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Dancing Zombie.controller
-  artifactKey: Guid(e6c0510b66562d34c9bc4fe8bf0d0e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Dancing Zombie.controller using Guid(e6c0510b66562d34c9bc4fe8bf0d0e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42948d5dd885c62161e077a5905c6c2d') in 0.015237 seconds
-  Import took 0.017771 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000877 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.769 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.2 MB.
-System memory in use after: 73.3 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
-Total: 1.637600 ms (FindLiveObjects: 0.202200 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.312900 ms  DeleteObjects: 0.077400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001198 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.773 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.4 MB.
-System memory in use after: 73.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1601.
-Total: 2.118800 ms (FindLiveObjects: 0.207200 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.774600 ms  DeleteObjects: 0.091000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000756 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.753 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.7 MB.
-System memory in use after: 73.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
-Total: 2.589900 ms (FindLiveObjects: 0.306100 ms CreateObjectMapping: 0.122700 ms MarkObjects: 2.098400 ms  DeleteObjects: 0.060900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000735 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.734 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1605.
-Total: 1.633600 ms (FindLiveObjects: 0.116000 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.402200 ms  DeleteObjects: 0.083700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 342.623535 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Salsa Dancing.fbx
-  artifactKey: Guid(4207f58fc14f4824784bef5a6d3020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Salsa Dancing.fbx using Guid(4207f58fc14f4824784bef5a6d3020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b7ac4a5e6e7cbcb94ba6ce6564b691') in 0.095717 seconds
-  Import took 0.098113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.176672 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Salsa Dancing.fbx
-  artifactKey: Guid(4207f58fc14f4824784bef5a6d3020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Salsa Dancing.fbx using Guid(4207f58fc14f4824784bef5a6d3020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cea6d6702472060c053567626dde58b') in 0.048203 seconds
-  Import took 0.050035 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.086175 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Salsa Dance.anim
-  artifactKey: Guid(725b077da47609348aa0b61910429625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Salsa Dance.anim using Guid(725b077da47609348aa0b61910429625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2a7e63558c01438ba924ab4b7f3a23') in 0.017691 seconds
-  Import took 0.020366 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.098932 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Jazz Dancing.fbx
-  artifactKey: Guid(a4be848ada7208e4db24a5317773f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Jazz Dancing.fbx using Guid(a4be848ada7208e4db24a5317773f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b1c16099ca5a0cd46f1ad4a17e5d0e') in 0.030194 seconds
-  Import took 0.033118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.718513 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Jazz Dancing.fbx
-  artifactKey: Guid(a4be848ada7208e4db24a5317773f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Jazz Dancing.fbx using Guid(a4be848ada7208e4db24a5317773f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b000cc09918e6e5a1fecfe78becfb9ef') in 0.041087 seconds
-  Import took 0.042963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.376493 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Jazz Dance.anim
-  artifactKey: Guid(62561368f692711449d90d9309ec73f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Jazz Dance.anim using Guid(62561368f692711449d90d9309ec73f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bacfa6a19758c1c04d23962a761c36') in 0.016516 seconds
-  Import took 0.018242 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.289097 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dance.anim
-  artifactKey: Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dance.anim using Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802a7ae8ab00f2cea6649f4780aeeb66') in 0.008539 seconds
-  Import took 0.010581 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 52.663742 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Silly Dance.anim
-  artifactKey: Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Silly Dance.anim using Guid(5f26ef20723bc1c4795428201cf74bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331325212cb859316faa17ee2f04db74') in 0.026872 seconds
-  Import took 0.029275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.917187 seconds.
-  path: Assets/Animations/Mixamo/Bonus/Salsa Dance.anim
-  artifactKey: Guid(725b077da47609348aa0b61910429625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Mixamo/Bonus/Salsa Dance.anim using Guid(725b077da47609348aa0b61910429625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0038ed4303cc40770f7ee3ded4047a14') in 0.011636 seconds
-  Import took 0.013651 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000983 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.723 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.2 MB.
-System memory in use after: 73.3 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1608.
-Total: 1.621700 ms (FindLiveObjects: 0.129600 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.393600 ms  DeleteObjects: 0.061100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000944 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.717 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.5 MB.
-System memory in use after: 73.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
-Total: 1.601600 ms (FindLiveObjects: 0.131800 ms CreateObjectMapping: 0.033400 ms MarkObjects: 1.355700 ms  DeleteObjects: 0.079800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000653 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.706 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.7 MB.
-System memory in use after: 73.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1612.
-Total: 1.675700 ms (FindLiveObjects: 0.264200 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.291300 ms  DeleteObjects: 0.078100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000682 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.703 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
-Total: 1.665400 ms (FindLiveObjects: 0.145200 ms CreateObjectMapping: 0.044800 ms MarkObjects: 1.395700 ms  DeleteObjects: 0.078600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000650 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.732 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.2 MB.
-System memory in use after: 73.3 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
-Total: 2.037100 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.040100 ms MarkObjects: 1.690200 ms  DeleteObjects: 0.080400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001062 seconds.
+Registered in 0.000799 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -616,21 +312,21 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.898 seconds
+- Completed reload, in  0.892 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.4 MB.
-System memory in use after: 73.5 MB.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
-Total: 1.911900 ms (FindLiveObjects: 0.267900 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.518900 ms  DeleteObjects: 0.054100 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1591.
+Total: 1.937200 ms (FindLiveObjects: 0.248500 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.543700 ms  DeleteObjects: 0.074300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000689 seconds.
+Registered in 0.001025 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -640,111 +336,167 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.698 seconds
+- Completed reload, in  0.815 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.7 MB.
-System memory in use after: 73.7 MB.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.9 MB.
+System memory in use after: 73.0 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
-Total: 1.546300 ms (FindLiveObjects: 0.131400 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.308400 ms  DeleteObjects: 0.074500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 1.666400 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.430600 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.883543 seconds.
+  path: Assets/Animations/Zed_1_Skinned.controller
+  artifactKey: Guid(3658b462c8045c742b9facafe0d2ea43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Zed_1_Skinned.controller using Guid(3658b462c8045c742b9facafe0d2ea43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd7d8d24fbc00df28f889c36b95f194') in 0.100072 seconds
+  Import took 0.103060 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000648 seconds.
+Registered in 0.001168 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.681 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.9 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
-Total: 1.941000 ms (FindLiveObjects: 0.165400 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.660900 ms  DeleteObjects: 0.078700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000934 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.687 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.2 MB.
-System memory in use after: 73.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1624.
-Total: 1.406600 ms (FindLiveObjects: 0.142000 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.157500 ms  DeleteObjects: 0.075700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000898 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.683 seconds
+- Completed reload, in  1.140 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.4 MB.
-System memory in use after: 73.5 MB.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.0 MB.
+System memory in use after: 73.1 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
-Total: 1.900600 ms (FindLiveObjects: 0.260400 ms CreateObjectMapping: 0.076800 ms MarkObjects: 1.408300 ms  DeleteObjects: 0.153500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 2.021300 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.086900 ms MarkObjects: 1.634100 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.567908 seconds.
+  path: Assets/Animations/Mixamo/Zombie Crawl (1).fbx
+  artifactKey: Guid(292f5b9ea82d54d4ba10b5a5418300f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Crawl (1).fbx using Guid(292f5b9ea82d54d4ba10b5a5418300f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3500b3eb15c3f3dbc1c2ec08846376b8') in 0.117325 seconds
+  Import took 0.120894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.145455 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(c0479b7babeaf3745836a117fed34280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(c0479b7babeaf3745836a117fed34280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43df2ff353bf2554dfcf9383e79ef83b') in 0.016013 seconds
+  Import took 0.018347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.368272 seconds.
+  path: Assets/Animations/Mixamo/Zombie Crawl Stationary.anim
+  artifactKey: Guid(c0479b7babeaf3745836a117fed34280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Zombie Crawl Stationary.anim using Guid(c0479b7babeaf3745836a117fed34280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef25f0e13c4f2af6f6564a34aaf15ea') in 0.075685 seconds
+  Import took 0.078446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.774821 seconds.
+  path: Assets/Animations/Zed_1_Skinned.controller
+  artifactKey: Guid(3658b462c8045c742b9facafe0d2ea43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Zed_1_Skinned.controller using Guid(3658b462c8045c742b9facafe0d2ea43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a55a2425c0a88ed6ce3fa78e3f9a3e') in 0.094283 seconds
+  Import took 0.096959 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000682 seconds.
+Registered in 0.001079 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.683 seconds
+- Completed reload, in  0.917 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 73.6 MB.
-System memory in use after: 73.7 MB.
+System memory in use after: 73.6 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1628.
-Total: 1.601000 ms (FindLiveObjects: 0.145300 ms CreateObjectMapping: 0.049000 ms MarkObjects: 1.325700 ms  DeleteObjects: 0.079900 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 1.904300 ms (FindLiveObjects: 0.291000 ms CreateObjectMapping: 0.070600 ms MarkObjects: 1.475800 ms  DeleteObjects: 0.065500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.612569 seconds.
+  path: Assets/Animations/Mixamo/Low Crawl.fbx
+  artifactKey: Guid(61ad726c3bccf1144b3096503a61d10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Low Crawl.fbx using Guid(61ad726c3bccf1144b3096503a61d10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4173b02bf28b9320626b26bd65c9c067') in 0.094813 seconds
+  Import took 0.097260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.289558 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0666ecba6ddafd6dbf4c7f37d92412') in 0.006791 seconds
+  Import took 0.009095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.669611 seconds.
+  path: Assets/Animations/Mixamo/Low Crawl.anim
+  artifactKey: Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Low Crawl.anim using Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efa6bf3341c8041002b1e017a938f7d') in 0.005968 seconds
+  Import took 0.008380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.579484 seconds.
+  path: Assets/Animations/Mixamo/Running Crawl.fbx
+  artifactKey: Guid(8f1197e89bb828c409d76db64e3a8d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Running Crawl.fbx using Guid(8f1197e89bb828c409d76db64e3a8d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b60e6a01a96cd0ad77277dff3f865b') in 0.029742 seconds
+  Import took 0.032234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.371926 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(a2aa4c7995fcf9044ab43ccfb6183c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(a2aa4c7995fcf9044ab43ccfb6183c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fa2888f65877d266f7f434bdbc7dfd') in 0.007237 seconds
+  Import took 0.009492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.594130 seconds.
+  path: Assets/Animations/Mixamo/Running Crawl Stationary.anim
+  artifactKey: Guid(a2aa4c7995fcf9044ab43ccfb6183c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Running Crawl Stationary.anim using Guid(a2aa4c7995fcf9044ab43ccfb6183c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41923d54660ff80922932c351f269831') in 0.074056 seconds
+  Import took 0.076116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 354.527777 seconds.
+  path: Assets/Animations/Mixamo/mixamo.com.anim
+  artifactKey: Guid(101605c39eac2044ab63f9426fe2b620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/mixamo.com.anim using Guid(101605c39eac2044ab63f9426fe2b620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e71f0757c972c862f506c3e0ed6b7e5') in 0.015040 seconds
+  Import took 0.017707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.346246 seconds.
+  path: Assets/Animations/Mixamo/Low Crawl.anim
+  artifactKey: Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Mixamo/Low Crawl.anim using Guid(ca9d1335f10073048bd1dba20ed42a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef65298372d72ad9f5f204766b185238') in 1.848828 seconds
+  Import took 3.167451 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
